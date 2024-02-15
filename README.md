@@ -5,7 +5,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScRo8NaG49z5akGDUDaEElITaqZ1_RsemmxNp3Y
 
 
 # Lektor: Petr Rozkošný
-(petr.rozkosny@ictpro.cz, https://www.linkedin.com/in/rozkosny/, 731 162 655)
+(https://www.linkedin.com/in/rozkosny/, 731 162 655)
 
 - 15+ let praxe v oblasti datové analýzy, reportingu, vizualizace dat
 - práce pro středně velké české či slovenské firmy, velké mezinárodní firmy

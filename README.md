@@ -1,9 +1,3 @@
-# Vstupní dotazník
-
-https://docs.google.com/forms/d/e/1FAIpQLScRo8NaG49z5akGDUDaEElITaqZ1_RsemmxNp3YiADdSlmmFA/viewform
-
-
-
 # Lektor: Petr Rozkošný
 (https://www.linkedin.com/in/rozkosny/, 731 162 655)
 
@@ -13,8 +7,6 @@ https://docs.google.com/forms/d/e/1FAIpQLScRo8NaG49z5akGDUDaEElITaqZ1_RsemmxNp3Y
 - vlastní podnikatelská činnost, lektorství, příležitostné přednášky ve školách
 
 # Kurz: Efektivní analýza dat a reporting
-
-Osnova kurzu: https://www.skoleni-ict.cz/kurz/Power-BI-Efektivni-analyza-dat-a-reporting-PWBI1.aspx
 
 Zdroj dat: https://www.ncdc.noaa.gov/cdo-web/search
 
